@@ -3,14 +3,26 @@
 Resources and information to implement and maintain Exposure Notification (bluetooth proximity exposure notification using the GAEN protocol), particulary using the Exposure Notification Express (ENX) framework.  And, tools and methods to help make sense of the data.
 
 ### DNA Shared drive 
-[https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA](https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA)
+<a href="
+https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
+         " target="_blank">
+https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
+</a>
+
 
 ### Slack workspace
-[https://westernstatesens.slack.com/](https://westernstatesens.slack.com/)
-
+<a href="
+https://westernstatesens.slack.com/
+         " target="_blank">
+https://westernstatesens.slack.com/
+</a>
 
 ### Github Org 
-[https://github.com/dna-en](https://github.com/dna-en)
+<a href="
+https://github.com/dna-en
+         " target="_blank">
+https://github.com/dna-en
+</a>
 
 ### Contact
 
