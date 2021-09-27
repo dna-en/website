@@ -1,8 +1,8 @@
-## Digital Notification Alliance
+# Digital Notification Alliance
 
 Resources and information to implement and maintain Exposure Notification (bluetooth proximity exposure notification using the GAEN protocol), particulary using the Exposure Notification Express (ENX) framework.  And, tools and methods to help make sense of the data.
 
-### DNA Shared drive 
+## DNA Shared drive 
 <a href="
 https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
          " target="_blank">
@@ -10,20 +10,19 @@ https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
 </a>
 
 
-### Slack workspace
+## Slack workspace
 <a href="
 https://westernstatesens.slack.com/
          " target="_blank">
 https://westernstatesens.slack.com/
 </a>
 
-### Github Org 
+## Github Org 
 <a href="
 https://github.com/dna-en
          " target="_blank">
 https://github.com/dna-en
 </a>
 
-### Contact
-
+## Contact
 one of the folks on the Monday calls
