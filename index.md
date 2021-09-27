@@ -9,7 +9,7 @@ Resources and information to implement and maintain Exposure Notification (bluet
 [https://westernstatesens.slack.com/](https://westernstatesens.slack.com/)
 
 
-### [Github Org] 
+### Github Org 
 [https://github.com/dna-en](https://github.com/dna-en)
 
 ### Contact
