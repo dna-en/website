@@ -12,7 +12,7 @@ https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
 
 ## Slack workspace
 <a href="
-https://westernstatesens.slack.com/
+https://app.slack.com/client/T01UC21BPEW/C01V1RMSAJC
          " target="_blank">
 https://westernstatesens.slack.com/
 </a>
