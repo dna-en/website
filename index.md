@@ -26,6 +26,6 @@ https://github.com/dna-en
 
 ## Contact
 one of the folks on the Monday calls
-<a href="mailto:earonoffspencer@health.ucsd.edu">
-<a href="mailto:lober@uw.edu">
+   * <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
+   * <a href="mailto:lober@uw.edu">lober@uw.edu
        
