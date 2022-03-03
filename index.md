@@ -31,6 +31,6 @@ Mondays.  Contact us for more details.
 ## Contact
 
    * Bill Lober <a href="mailto:lober@uw.edu">lober@uw.edu
-   * Eliah Aronoff-Spencer <earonoffspencer@health.ucsd.edu> <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
+   * Eliah Aronoff-Spencer <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
 
        
