@@ -24,9 +24,13 @@ https://github.com/dna-en
 https://github.com/dna-en
 </a>
 
+## Weekly calls
+
+Mondays.  Contact us for more details.
+
 ## Contact
-one of the folks on the Monday calls
-   * <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
-   * <a href="mailto:lober@uw.edu">lober@uw.edu
-   * etc...
+
+   * Bill Lober <a href="mailto:lober@uw.edu">lober@uw.edu
+   * Eliah Aronoff-Spencer <earonoffspencer@health.ucsd.edu> <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
+
        
