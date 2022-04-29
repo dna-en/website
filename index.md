@@ -30,7 +30,8 @@ Mondays.  Contact us for more details.
 
 ## Contact
 
-   * Bill Lober <a href="mailto:Bill.Lober@doh.wa.gov">Bill.Lober@doh.wa.gov
+   * Laura West <a href="mailto:Laura.West@doh.wa.gov">Laura.West@doh.wa.gov
+   * Bill Lober <a href="mailto:lober@uw.edu">lober@uw.edu
    * Eliah Aronoff-Spencer <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
 
        
