@@ -25,14 +25,16 @@ https://app.slack.com/client/T01UC21BPEW/C01V1RMSAJC
 https://westernstatesens.slack.com/
 </a>
 
-## Github Repositories - right now, just the website 
+## Github Repositories
+At the moment, there's just the website code.
 <a href="
 https://github.com/dna-en
          " target="_blank">
 https://github.com/dna-en
 </a>
 
-## EN User Experience Survey (Content) 
+## EN User Experience Survey Questions
+OSF repository of "Landing Page Survey" questions - opt-on intial and followup questionaires to help understand user experiences and actions upon recieving an EN
 <a href="
 https://osf.io/tnav3/
          " target="_blank">
