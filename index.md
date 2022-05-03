@@ -16,25 +16,24 @@ Resources and information to implement and maintain Exposure Notification (bluet
    * Eliah Aronoff-Spencer <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
 
 ## DNA Shared drive
-Google Drive containing project info.  Gmail account or other GoogleID required for access.  Let us know, or just "request access" at the link below when you're logged in to Google.
 <a href="
 https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
          " target="_blank">
-https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
-</a>
+Google Drive
+</a>containing project info.  Gmail account or other GoogleID required for access.  Let us know, or just "request access" at the link below when you're logged in to Google.
 
 ## Slack workspace
 <a href="
-Slack
-         " target="_blank">
 https://westernstatesens.slack.com/
+         " target="_blank">
+Slack
 </a>, of course.
 
 ## Github Repositories
 <a href="
-Github
-         " target="_blank">
 https://github.com/dna-en
+         " target="_blank">
+Github
 </a>, of course. Don't get too excited. At the moment, there's just the website code.
 
 ## EN User Experience Survey Questions
