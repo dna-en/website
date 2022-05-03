@@ -16,11 +16,8 @@ Resources and information to implement and maintain Exposure Notification (bluet
    * Eliah Aronoff-Spencer <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
 
 ## DNA Shared drive
-<a href="
-https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
-         " target="_blank">
-Google Drive
-</a>
+<a href="https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA" target="_blank">
+Google Drive</a>
 containing project info.  Gmail account or other GoogleID required for access.  Let us know, or just "request access" at the link below when you're logged in to Google.
 
 ## Slack workspace
