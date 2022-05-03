@@ -30,6 +30,6 @@ Github</a>, of course. Don't get too excited. At the moment, there's just the we
 ## EN User Experience Survey Questions
 
 <a href="https://osf.io/tnav3/" target="_blank">
-OSF repository</a> of "Landing Page Survey" questions - opt-on intial and followup questionaires to help understand user experiences and actions upon recieving an EN
+OSF repository</a> of "Landing Page Survey" questions - opt-in intial and followup questionaires to help understand user experiences and actions upon recieving an EN
 
        
