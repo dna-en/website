@@ -31,7 +31,7 @@ https://westernstatesens.slack.com/
 </a>
 
 ## Github Repositories
-Dont' get too excited. At the moment, there's just the website code.
+Don't get too excited. At the moment, there's just the website code.
 <a href="
 https://github.com/dna-en
          " target="_blank">
