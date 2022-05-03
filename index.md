@@ -15,7 +15,7 @@ Resources and information to implement and maintain Exposure Notification (bluet
    * Bill Lober <a href="mailto:lober@uw.edu">lober@uw.edu
    * Eliah Aronoff-Spencer <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
 
-# DNA Shared drive
+## DNA Shared drive
 Google Drive containing project info.  Gmail account or other GoogleID required for access.  Let us know, or just "request access" at the link below when you're logged in to Google.
 <a href="
 https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
