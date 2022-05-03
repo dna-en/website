@@ -22,8 +22,7 @@ containing project info.  Gmail account or other GoogleID required for access.  
 
 ## Slack workspace
 <a href="https://westernstatesens.slack.com/" target="_blank">
-Slack</a>
-, of course.
+Slack</a>, of course.
 
 ## Github Repositories
 <a href="https://github.com/dna-en" target="_blank">
