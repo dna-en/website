@@ -20,14 +20,16 @@ Resources and information to implement and maintain Exposure Notification (bluet
 https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
          " target="_blank">
 Google Drive
-</a>containing project info.  Gmail account or other GoogleID required for access.  Let us know, or just "request access" at the link below when you're logged in to Google.
+</a>
+containing project info.  Gmail account or other GoogleID required for access.  Let us know, or just "request access" at the link below when you're logged in to Google.
 
 ## Slack workspace
 <a href="
 https://westernstatesens.slack.com/
          " target="_blank">
 Slack
-</a>, of course.
+</a>
+, of course.
 
 ## Github Repositories
 <a href="
