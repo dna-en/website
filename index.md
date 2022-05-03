@@ -21,19 +21,15 @@ Google Drive</a>
 containing project info.  Gmail account or other GoogleID required for access.  Let us know, or just "request access" at the link below when you're logged in to Google.
 
 ## Slack workspace
-<a href="
-https://westernstatesens.slack.com/
-         " target="_blank">
-Slack
-</a>
+<a href="https://westernstatesens.slack.com/" target="_blank">
+Slack</a>
 , of course.
 
 ## Github Repositories
-<a href="
-https://github.com/dna-en
-         " target="_blank">
+<a href="https://github.com/dna-en" target="_blank">
 Github
-</a>, of course. Don't get too excited. At the moment, there's just the website code.
+</a>
+, of course. Don't get too excited. At the moment, there's just the website code.
 
 ## EN User Experience Survey Questions
 OSF repository of "Landing Page Survey" questions - opt-on intial and followup questionaires to help understand user experiences and actions upon recieving an EN
