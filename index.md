@@ -10,13 +10,18 @@ Resources and information to implement and maintain Exposure Notification (bluet
 
 ...take place on Mondays.  Contact us for more details.
 
-## DNA Shared drive 
+## Contacts
+   * Laura West <a href="mailto:Laura.West@doh.wa.gov">Laura.West@doh.wa.gov
+   * Bill Lober <a href="mailto:lober@uw.edu">lober@uw.edu
+   * Eliah Aronoff-Spencer <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
+
+# DNA Shared drive
+Google Drive containing project info.  Gmail account or other GoogleID required for access.  Let us know, or just "request access" at the link below when you're logged in to Google.
 <a href="
 https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
          " target="_blank">
 https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
 </a>
-
 
 ## Slack workspace
 <a href="
@@ -40,11 +45,5 @@ https://osf.io/tnav3/
          " target="_blank">
 https://osf.io/tnav3/
 </a>
-
-## Contact
-
-   * Laura West <a href="mailto:Laura.West@doh.wa.gov">Laura.West@doh.wa.gov
-   * Bill Lober <a href="mailto:lober@uw.edu">lober@uw.edu
-   * Eliah Aronoff-Spencer <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
 
        
