@@ -2,6 +2,10 @@
 
 Resources and information to implement and maintain Exposure Notification (bluetooth proximity exposure notification using the GAEN protocol), particulary using the Exposure Notification Express (ENX) framework.  And, tools and methods to help make sense of the data.
 
+## Weekly calls
+
+...take place on Mondays.  Contact us for more details.
+
 ## DNA Shared drive 
 <a href="
 https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
@@ -23,10 +27,6 @@ https://github.com/dna-en
          " target="_blank">
 https://github.com/dna-en
 </a>
-
-## Weekly calls
-
-Mondays.  Contact us for more details.
 
 ## Contact
 
