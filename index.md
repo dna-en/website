@@ -25,18 +25,17 @@ https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA
 
 ## Slack workspace
 <a href="
-https://app.slack.com/client/T01UC21BPEW/C01V1RMSAJC
+Slack
          " target="_blank">
 https://westernstatesens.slack.com/
-</a>
+</a>, of course.
 
 ## Github Repositories
-Don't get too excited. At the moment, there's just the website code.
 <a href="
-https://github.com/dna-en
+Github
          " target="_blank">
 https://github.com/dna-en
-</a>
+</a>, of course. Don't get too excited. At the moment, there's just the website code.
 
 ## EN User Experience Survey Questions
 OSF repository of "Landing Page Survey" questions - opt-on intial and followup questionaires to help understand user experiences and actions upon recieving an EN
