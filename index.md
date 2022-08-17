@@ -20,7 +20,7 @@ Resources and information to implement and maintain Exposure Notification (bluet
 ### Slack Workspace
 
 <a href="https://westernstatesens.slack.com/" target="_blank">
-Request to join our Slack workspace</a>
+Request to join our Slack workspace</a> at westernstatesens.slack.com
 
 ### DNA Shared drive
 <a href="https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA" target="_blank">
