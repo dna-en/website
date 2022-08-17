@@ -11,6 +11,7 @@ Resources and information to implement and maintain Exposure Notification (bluet
 ...take place on Mondays.  Contact us for more details.
 
 ## Contact Us
+   * General contact email <a href="mailto:multistateEN@doh.wa.gov">multistateEN@doh.wa.gov<br/>The above address is the fastest way, 
    * Laura West <a href="mailto:Laura.West@doh.wa.gov">Laura.West@doh.wa.gov
    * Bill Lober <a href="mailto:lober@uw.edu">lober@uw.edu
    * Eliah Aronoff-Spencer <a href="mailto:earonoffspencer@health.ucsd.edu">earonoffspencer@health.ucsd.edu
