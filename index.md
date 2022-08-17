@@ -39,6 +39,6 @@ OSF repository</a> of "Landing Page Survey" questions - opt-in intial and follow
 ### Localized Templates for ENX Configuration
 <a href="https://docs.google.com/document/d/1Rrz98wySceDbApC-zMlKZ_xY0COkWuKL/edit#" target="_blank">
          Google doc</a> containing localized templates for each configured field in the ENX system, in collaboration with <a href="https://www.lfph.io/" target="_blank">LFPH</a>.
-
+<p/>
 <p>And, of course, more on the DNA Shared Drive<p/>
        
