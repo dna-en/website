@@ -1,8 +1,5 @@
 # Digital Notification Alliance
-(<a href="
-https://dna-en.github.io/website/
-         " target="_blank">https://dna-en.github.io/website/
-         </a>)
+(<a href="https://dna-enx.org" target="_blank">https://dna-enx.org</a>)
 
 Resources and information to implement and maintain Exposure Notification (bluetooth proximity exposure notification using the GAEN protocol), particulary using the Exposure Notification Express (ENX) framework.  And, tools and methods to help make sense of the data.  DNA focusses on the needs of, and encourages participation by, state public helath authorities and related agencies.
 
