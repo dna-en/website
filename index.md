@@ -24,7 +24,7 @@ Request to join our Slack workspace</a> at westernstatesens.slack.com
 
 ### DNA Shared drive
 <a href="https://drive.google.com/drive/u/0/folders/0AKbIgwpWRL6LUk9PVA" target="_blank">
-Google Drive</a> containing project info and resources.  Gmail account or other GoogleID required for access.  Let us know yours (at the email above) and remind us in that email where you work if it's not clear from your googleID.
+Google Drive</a> containing project info and resources.  Gmail account or other GoogleID required for access.  Let us know yours (at the email above) and remind us in that email where you work, if it's not clear from your googleID.
          
 ### Github Repositories
 <a href="https://github.com/dna-en" target="_blank">
